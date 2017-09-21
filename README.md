@@ -1,7 +1,7 @@
 # Tech Companies in nepal [android app]
 
 ## Demo ##
-![Demo](./demo/demo.gif =300x534)
+![Demo](./demo/demo.gif)
 
 ### Don't See your Company on the List?
 
